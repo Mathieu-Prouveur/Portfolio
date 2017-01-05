@@ -4,7 +4,7 @@ Welcome to my portfolio, here you'll find :
 
 ####GoBot 2015-2016
 
-This is a six-months Java projectIt whose goal is to create an interface to play go and implement a bot to play with.
+This is a six-month Java project whose goal is to create an interface to play go and implement a bot to play with.
 
 ####Robot 2016
 
