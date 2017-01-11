@@ -1,3 +1,3 @@
 ##Read me
 
-The Java Code allowes you to play Go with friends or a computer
+The Java Code allows you to play Go with friends or a computer
